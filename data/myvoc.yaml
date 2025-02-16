@@ -1,0 +1,8 @@
+train: D:/yolov5/AOCData/dataSet_path/train.txt
+val: D:/yolov5/AOCData/dataSet_path/val.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: ["dog", "kid"]
